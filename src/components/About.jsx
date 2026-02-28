@@ -15,7 +15,7 @@ const About = () => {
                         Currently, I'm the Founder & Full Stack Instructor at <strong>Clarithix</strong>, a tech-focused education platform where I build job-ready developers. I'm also actively open to remote full-stack roles globally.
                     </p>
                     <div style={{ marginTop: '28px' }}>
-                        <a href="mailto:demerkarthi@gmail.com" className="btn btn-primary">Download Resume</a>
+                        <a href="/Dhanakarthikeyan_P_Full_Stack_Developer.pdf" download className="btn btn-primary">Download Resume</a>
                     </div>
                 </div>
                 <div className="about-highlights reveal">
